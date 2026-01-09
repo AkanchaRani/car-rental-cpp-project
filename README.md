@@ -25,3 +25,11 @@ This project demonstrates core **Object-Oriented Programming (OOP)** concepts an
 ---
 
 ## 📂 Project Structure
+
+```text
+car-rental-cpp-project/
+│
+├── Project.cpp        # Main C++ source file
+├── README.md          # Project documentation
+└── .gitattributes     # Git configuration
+
